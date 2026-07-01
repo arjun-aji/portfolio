@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ],
       tags: ["ESP32", "Ultrasonic Sensor", "Node.js", "React.js"],
       github: "https://github.com",
-      live: "https://readease.dev"
+      live: "https://read-ease-teal.vercel.app/"
     },
     sportshub: {
       badge: "Academic Project",
