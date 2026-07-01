@@ -240,7 +240,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Provided a web-based interface to visualize and access rainfall data for analysis and decision-making."
       ],
       tags: ["ESP32", "Ultrasonic Sensor", "Node.js", "React.js"],
-      github: "https://github.com",
+      github: "https://github.com/arjun-aji/ReadEase",
       live: "https://read-ease-teal.vercel.app/"
     },
     sportshub: {
